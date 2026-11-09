@@ -1,0 +1,8 @@
+repo = "your-name/your-addon"
+name = "My Addon"
+category = "Combat"
+folders = ["MyAddon"]
+asset = "MyAddon-*.zip"
+
+# Optional: relative image path in this repository, or an empty string.
+icon = ""
